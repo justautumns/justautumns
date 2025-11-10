@@ -4,6 +4,26 @@ I’m **Mehmet Emre YILDIZ** — a **Full-Stack Developer** based in Vienna 🇦
 🔧 With a strong foundation in **C** and **C++** from the 42 Common Core, I’m expanding my expertise into **full-stack web** and **mobile development**.
 
 ---
+## 🏗️ Programs I Built at 42
+
+During my journey at **42 Vienna**, I completed the following projects:
+
+- **Libft** – Custom C library implementing common functions to strengthen C fundamentals.  
+- **ft_printf** – Custom implementation of printf, enhancing understanding of variadic functions and formatting.  
+- **Get_Next_Line** – Function to read lines from a file descriptor, practicing memory management.  
+- **Push_Swap** – Sorting algorithm project using stacks with minimal operations.  
+- **so_long** – 2D game using C and MiniLibX with collectibles and map validation.  
+- **Born2BeRoot** – Linux system administration and process management practice (optional for security).  
+- **Minishell** – Minimal Unix shell with command parsing, built-ins, pipes, and redirections.  
+- **NetPractice** – Network programming exercises, reinforcing TCP/UDP and socket handling.  
+- **Cub3D** – A 3D raycasting project, creating a simple Wolfenstein-style game engine in C.  
+- **IRC** – Multi-client chat application practicing socket programming and concurrency.  
+- **CPP Modules** – C++ exercises covering OOP, inheritance, polymorphism, and memory management.  
+- **Inception** – Docker and microservice orchestration project, simulating a containerized web service stack.  
+- **ft_transcendence** – Web/mobile project (full-stack), building real-time features and integrating APIs.  
+
+> ⚡ These projects helped me build a strong foundation in **C/C++ programming**, **system programming**, **networking**, and **full-stack development**.
+
 
 ## 🔭 Current Focus  
 - Building scalable **RESTful APIs** and **microservice architectures** with **Node.js** & **Express**, using **Docker** and **Nginx** for deployment  
