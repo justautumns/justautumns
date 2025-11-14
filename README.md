@@ -6,7 +6,7 @@ I’m **Mehmet Emre YILDIZ** — a **Full-Stack Developer** based in Vienna 🇦
 ---
 #### 🏗️ Programs I Built at 42
 
-During my journey at **42 Vienna**, I completed the following projects:
+During my journey at **42 Vienna**, I completed the following projects: !Most of my repositories are private as a security concerns 
 
 - **Libft** – Custom C library implementing common functions to strengthen C fundamentals.  
 - **ft_printf** – Custom implementation of printf, enhancing understanding of variadic functions and formatting.  
